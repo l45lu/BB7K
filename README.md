@@ -3,7 +3,7 @@ Disclaimer:
 
 According to the University of Waterloo's Policy 71, using any part of code in this repository is an academic offence. The author of this repository will not accept any responsibility of any consequence incurred by using the code in this repository for the University of Waterloo. Compilation:
 
-###Environment Requirement:
+### Environment Requirement:
 
 g++ complier 4.2 or above
 
@@ -41,3 +41,6 @@ bankrupt: declare bankrupt when you have insufficient fund to repay debts. Upon 
 (out of your turn):
 
 In various situations, you may be prompted a question. At your own wisdom, you should give the response in the format specified in the question. For example: “do you wish to unmortgage the property right now? (y/n)”, keying in ‘y’ means yes and ‘n’ for no.
+
+### Game Board Screen Cut
+![alt text](https://github.com/l45lu/BB7K/blob/master/gameboard_example.png)
